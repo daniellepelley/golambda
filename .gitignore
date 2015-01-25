@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GoLambda.Website.Mvc/GoLambda.Website.Mvc/bin
+/GoLambda.Website.Mvc/GoLambda.Website.Mvc/obj/Debug
+/GoLambda.Website.Mvc/packages

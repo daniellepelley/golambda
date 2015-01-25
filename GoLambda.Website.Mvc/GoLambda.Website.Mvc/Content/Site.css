@@ -1,0 +1,47 @@
+﻿body {
+    padding-top: 50px;
+}
+
+.section {
+    padding: 20px;
+    height: 600px;
+    text-align: center;
+}
+
+.section > h1 {
+    font-size: 42px;
+}
+
+.section-top {
+    background-image: url("background.jpg");
+    background-color: black;
+    color: whitesmoke;
+}
+
+.section-white {
+    background-color: white;
+    color: #0077b3;
+}
+
+.section-gray {
+    background-color: whitesmoke;
+    color: #0077b3;
+}
+
+.section-blue {
+    background-color: #0077b3;
+    color: white;
+}
+
+.inner-panel {
+    margin: 50px;
+    background-color: white;
+    box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
